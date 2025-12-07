@@ -3,3 +3,4 @@ def shop_trip():
     pass
     pass
     pass
+    pass
